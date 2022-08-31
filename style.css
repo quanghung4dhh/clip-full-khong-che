@@ -13,7 +13,7 @@
 
  }
  video {
-    height: 75vh;
+    height: auto;
     max-width: 100%;
  }
  div.des {
